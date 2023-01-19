@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with window manager and session sharing
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
@@ -135,6 +136,7 @@
 
 - [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Clojure 
 
@@ -428,7 +430,6 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## TeX 
 
