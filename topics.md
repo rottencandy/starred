@@ -31,7 +31,6 @@
 - [emacs](#emacs)
 - [ember](#ember)
 - [emulator](#emulator)
-- [es6](#es6)
 - [flask](#flask)
 - [font](#font)
 - [framework](#framework)
@@ -282,10 +281,6 @@
 
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-## es6 
-
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 ## flask 
 
@@ -620,7 +615,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [shrekshao/minimal-gltf-loader](https://github.com/shrekshao/minimal-gltf-loader) - A minimal, engine-agnostic JavaScript glTF Loader.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [openshift/console](https://github.com/openshift/console) - OpenShift Cluster Console UI
 - [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [kriskowal/gtor](https://github.com/kriskowal/gtor) - A General Theory of Reactivity
