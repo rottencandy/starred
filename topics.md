@@ -76,6 +76,7 @@
 - [p2p](#p2p)
 - [parsing](#parsing)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -582,7 +583,6 @@
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
 - [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
-- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a graphical tool to author game spritesheets and associated metadata.
 - [hacky-stuff/hacky-scripts](https://github.com/hacky-stuff/hacky-scripts) - 
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
@@ -760,6 +760,10 @@
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+## pixel-art 
+
+- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a graphical tool to author game spritesheets and their metadata.
 
 ## programming 
 
