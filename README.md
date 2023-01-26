@@ -367,7 +367,7 @@
 
 ## Rust 
 
-- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a graphical tool to author game spritesheets and associated metadata.
+- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a graphical tool to author game spritesheets and their metadata.
 - [nickmass/libsm64-rust](https://github.com/nickmass/libsm64-rust) - 
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
