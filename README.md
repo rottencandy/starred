@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [redcamel/RedGL2](https://github.com/redcamel/RedGL2) - RedGL - Javascript 3D library (webgl)
 - [tsherif/picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library
 - [drogue-iot/drogueroids](https://github.com/drogue-iot/drogueroids) - 👾 We come in peace
 - [rugk/googerteller](https://github.com/rugk/googerteller) - A Geiger counter for Google emitting a sound for each request that goes to Google.
@@ -437,6 +438,7 @@
 
 ## TypeScript 
 
+- [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [andremichelle/tr-909](https://github.com/andremichelle/tr-909) - Roland TR-909
 - [hacky-stuff/hacky-scripts](https://github.com/hacky-stuff/hacky-scripts) - 
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
