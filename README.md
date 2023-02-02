@@ -387,7 +387,6 @@
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
-- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [indiv0/colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
