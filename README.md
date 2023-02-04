@@ -285,6 +285,7 @@
 
 ## Others 
 
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [nyunesu/web-games](https://github.com/nyunesu/web-games) - 
 - [hundredrabbits/awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community
 - [orta/awesome-typescript-derived-languages](https://github.com/orta/awesome-typescript-derived-languages) - Projects which have taken "TypeScript" and made it more than just 'JS with Types'
