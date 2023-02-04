@@ -820,6 +820,7 @@
 
 ## rust 
 
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
