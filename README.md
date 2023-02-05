@@ -440,6 +440,7 @@
 
 ## TypeScript 
 
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Web-based tool for creating animations programmatically
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [andremichelle/tr-909](https://github.com/andremichelle/tr-909) - Roland TR-909
 - [hacky-stuff/hacky-scripts](https://github.com/hacky-stuff/hacky-scripts) - 
