@@ -180,6 +180,7 @@
 
 ## HTML 
 
+- [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
 - [tsherif/webgl2examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
