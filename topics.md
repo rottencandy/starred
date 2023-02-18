@@ -218,6 +218,7 @@
 
 ## compiler 
 
+- [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -314,7 +315,7 @@
 
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
-- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful, Free and Open Source Game Engine in the World
+- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful Open Source Game Engine in the World
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [sondresj/piecs](https://github.com/sondresj/piecs) - PIECS is an entity component system with some batteries included, some not
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
@@ -332,7 +333,7 @@
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
-- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful, Free and Open Source Game Engine in the World
+- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful Open Source Game Engine in the World
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
@@ -495,6 +496,7 @@
 
 ## linux 
 
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -561,7 +563,7 @@
 
 ## open-source 
 
-- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful, Free and Open Source Game Engine in the World
+- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful Open Source Game Engine in the World
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 
@@ -582,6 +584,7 @@
 
 ## others 
 
+- [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
@@ -604,7 +607,6 @@
 - [dokutan/check.fnl](https://github.com/dokutan/check.fnl) - A linter for Fennel
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [teleshoes/tpacpi-bat](https://github.com/teleshoes/tpacpi-bat) - ThinkPad ACPI Battery Util
-- [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [rugk/googerteller](https://github.com/rugk/googerteller) - A Geiger counter for Google emitting a sound for each request that goes to Google.
 - [kaveh808/kons-9](https://github.com/kaveh808/kons-9) - Common Lisp 3D Graphics Project
 - [kentjhall/horizon-linux](https://github.com/kentjhall/horizon-linux) - arm64 Linux patched to run programs for the Nintendo Switch’s Horizon OS
@@ -856,7 +858,7 @@
 
 ## shell 
 
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
