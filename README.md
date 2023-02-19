@@ -403,7 +403,6 @@
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
 - [izzabelle/glade](https://github.com/izzabelle/glade) - rust OS
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 
 ## Scala 
 
