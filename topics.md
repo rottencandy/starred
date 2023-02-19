@@ -718,7 +718,6 @@
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [magcius/xplain](https://github.com/magcius/xplain) - Interactive demos
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
-- [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 - [eyelash/tutorials](https://github.com/eyelash/tutorials) - a collection of minimal example programs
 - [alicewriteswrongs/PocketGuide](https://github.com/alicewriteswrongs/PocketGuide) - "The Pocket Guide to Email Encryption": a zine about using GPG
