@@ -43,6 +43,7 @@
 
 ## Assembly 
 
+- [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
 - [doldecomp/sms](https://github.com/doldecomp/sms) - A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)
