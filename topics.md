@@ -27,6 +27,7 @@
 - [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [discord](#discord)
 - [docker](#docker)
 - [emacs](#emacs)
 - [ember](#ember)
@@ -100,6 +101,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -218,6 +220,7 @@
 
 ## compiler 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -263,6 +266,10 @@
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## discord 
+
+- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities
 
 ## docker 
 
@@ -375,7 +382,6 @@
 
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
@@ -427,6 +433,7 @@
 
 ## javascript 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [redcamel/RedGL2](https://github.com/redcamel/RedGL2) - RedGL - Javascript 3D library (webgl)
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -492,7 +499,7 @@
 
 ## library 
 
-- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - lygia, it's a granular and multi-language shader library designed for performance and flexibility
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
 
 ## linux 
 
@@ -584,6 +591,8 @@
 
 ## others 
 
+- [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - 
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
@@ -716,7 +725,7 @@
 - [clktmr/vim-gdscript3](https://github.com/clktmr/vim-gdscript3) - Syntax highlighting and completion for GDScript 3
 - [jlfwong/graphics-experiments](https://github.com/jlfwong/graphics-experiments) - Bucket of unrelated graphics experiments. Just a place to keep stuff so I don't lose it.
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
-- [Plagman/gamescope](https://github.com/Plagman/gamescope) - SteamOS session compositing window manager
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [izzabelle/glade](https://github.com/izzabelle/glade) - rust OS
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [magcius/xplain](https://github.com/magcius/xplain) - Interactive demos
@@ -774,7 +783,7 @@
 
 ## pixel-art 
 
-- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a graphical tool to author game spritesheets and their metadata.
+- [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a visual tool to author game spritesheets and their metadata.
 
 ## programming 
 
@@ -827,6 +836,7 @@
 
 ## rust 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
@@ -892,6 +902,8 @@
 
 ## typescript 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Google-searchable Slack alternative for Communities
 - [andremichelle/tr-909](https://github.com/andremichelle/tr-909) - Roland TR-909
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
@@ -909,6 +921,7 @@
 
 ## vim 
 
+- [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [arithran/vim-pizza](https://github.com/arithran/vim-pizza) - My initial attempt at trying to order pizza from within vim.
 - [skanehira/k8s.vim](https://github.com/skanehira/k8s.vim) - Vim/Neovim plugin for Kubernetes
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
@@ -933,8 +946,13 @@
 
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 
+## vuejs 
+
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
+
 ## web 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [backstopmedia/deep-learning-browser](https://github.com/backstopmedia/deep-learning-browser) - Official repository of the book "Deep learning in the browser" published by Bleeding Edge Press August 2018. Find here all of the source code of the demos!
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
