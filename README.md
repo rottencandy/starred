@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ActionScript](#actionscript)
 - [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
@@ -31,6 +32,7 @@
 - [PicoLisp](#picolisp)
 - [Python](#python)
 - [Reason](#reason)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -42,6 +44,10 @@
 - [Wren](#wren)
 - [Zig](#zig)
 
+## ActionScript 
+
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
 ## Assembly 
 
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
@@ -52,6 +58,7 @@
 
 ## C 
 
+- [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
@@ -181,7 +188,6 @@
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 ## HTML 
 
@@ -189,7 +195,6 @@
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
 - [tsherif/webgl2examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) - 
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [jed/140bytes](https://github.com/jed/140bytes) - Once a tweet-sized, fork-to-play, community-curated collection of JavaScript.
@@ -208,7 +213,7 @@
 
 ## Java 
 
-- [flide/8VIM](https://github.com/flide/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+- [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 
 ## JavaScript 
 
@@ -294,6 +299,7 @@
 
 ## Others 
 
+- [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
 - [madprops/blog](https://github.com/madprops/blog) - I might write stuff here sometimes
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [HugoMatilla/The-Pragmatic-Programmer](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and  David Thomas
@@ -318,7 +324,7 @@
 - [gaving/vimtips](https://github.com/gaving/vimtips) - :book: Tips for Vim
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
-- [facebookincubator/BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
+- [facebookarchive/BOLT](https://github.com/facebookarchive/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [redhat-gamedev/srt-multiplayer-game-design](https://github.com/redhat-gamedev/srt-multiplayer-game-design) - A repo to contain the design notes and architectural information about the scaleable multiplayer game for OpenShift
@@ -348,6 +354,7 @@
 
 ## PHP 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :star: A much faster alternative to youtube-dl built for PHP applications. Active and frequently updated! :v:
 - [TwixtedChaox/Guerrilla-SMTPd](https://github.com/TwixtedChaox/Guerrilla-SMTPd) - Guerrilla SMTPd is minimalist, event-driven I/O, non-blocking SMTP server. The design goal and purpose of Guerrilla SMTPd is to receive large volumes of email and nothing much else. It happily gobbles
 
@@ -378,6 +385,10 @@
 
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 
+## Roff 
+
+- [0beqz/enhance-shader-lighting](https://github.com/0beqz/enhance-shader-lighting) - 💡 Better lighting in three.js
+
 ## Ruby 
 
 - [frogatto/frogatto](https://github.com/frogatto/frogatto) - Frogatto & Friends is an action-adventure game, starring a certain quixotic frog.
@@ -391,7 +402,7 @@
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a visual tool to author game spritesheets and their metadata.
 - [nickmass/libsm64-rust](https://github.com/nickmass/libsm64-rust) - 
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [austintheriot/wrend](https://github.com/austintheriot/wrend) - A framework-agnostic Rust/WASM + WebGL2 Rendering library, compatible with calling from both Rust and JavaScript on the web.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
@@ -424,7 +435,6 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
 - [izzabelle/glade](https://github.com/izzabelle/glade) - rust OS
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Scala 
 
@@ -465,7 +475,7 @@
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [andremichelle/tr-909](https://github.com/andremichelle/tr-909) - Roland TR-909
 - [hacky-stuff/hacky-scripts](https://github.com/hacky-stuff/hacky-scripts) - 
@@ -514,7 +524,7 @@
 ## Zig 
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 
 
 ## License
