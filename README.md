@@ -20,7 +20,6 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
-- [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
@@ -58,6 +57,7 @@
 
 ## C 
 
+- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
@@ -113,7 +113,7 @@
 
 ## C++ 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [SalvatorePreviti/roaring-node](https://github.com/SalvatorePreviti/roaring-node) - Roaring for NodeJS
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing
@@ -184,6 +184,7 @@
 
 ## Go 
 
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Enterprise Contract command line interface
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -211,12 +212,9 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 
-## Java 
-
-- [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
-
 ## JavaScript 
 
+- [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
@@ -271,7 +269,7 @@
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
-- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 
 ## Julia 
@@ -284,6 +282,7 @@
 - [scubajeff/Setter](https://github.com/scubajeff/Setter) - A multi-purpose search app for Android
 - [gh123man/Portal-Raycaster](https://github.com/gh123man/Portal-Raycaster) - A software portal rendering game engine
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
+- [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 
 ## Lua 
 
@@ -354,7 +353,7 @@
 
 ## PHP 
 
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :star: A much faster alternative to youtube-dl built for PHP applications. Active and frequently updated! :v:
 - [TwixtedChaox/Guerrilla-SMTPd](https://github.com/TwixtedChaox/Guerrilla-SMTPd) - Guerrilla SMTPd is minimalist, event-driven I/O, non-blocking SMTP server. The design goal and purpose of Guerrilla SMTPd is to receive large volumes of email and nothing much else. It happily gobbles
 
@@ -414,7 +413,7 @@
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
@@ -469,6 +468,7 @@
 
 ## TypeScript 
 
+- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -494,7 +494,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jlfwong/graphics-experiments](https://github.com/jlfwong/graphics-experiments) - Bucket of unrelated graphics experiments. Just a place to keep stuff so I don't lose it.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## Vala 
 
