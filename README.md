@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
@@ -20,6 +19,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
@@ -35,6 +35,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -68,7 +69,6 @@
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kentjhall/horizon-linux](https://github.com/kentjhall/horizon-linux) - arm64 Linux patched to run programs for the Nintendo Switch’s Horizon OS
-- [Esenthel/EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - The Most Powerful Open Source Game Engine in the World
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -153,10 +153,6 @@
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
-## Clojure 
-
-- [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
-
 ## Common Lisp 
 
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
@@ -170,6 +166,7 @@
 ## Emacs Lisp 
 
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
+- [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [dungeon-mode/game](https://github.com/dungeon-mode/game) - Create free (as in freedom) RPGs with GNU Emacs. And then play them.
 
 ## Fennel 
@@ -184,6 +181,7 @@
 
 ## Go 
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Enterprise Contract command line interface
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -212,6 +210,10 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 
+## Java 
+
+- [A-Herzog/Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator) - Warteschlangensimulator is a free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts.
+
 ## JavaScript 
 
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
@@ -225,6 +227,7 @@
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [SalvatorePreviti/spglsl](https://github.com/SalvatorePreviti/spglsl) - A webgl GLSL minifier based on Angle compiler
 - [shrekshao/minimal-gltf-loader](https://github.com/shrekshao/minimal-gltf-loader) - A minimal, engine-agnostic JavaScript glTF Loader.
+- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [kriskowal/gtor](https://github.com/kriskowal/gtor) - A General Theory of Reactivity
 - [greggman/wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library
 - [Auroriax/PuzzleScriptPlus](https://github.com/Auroriax/PuzzleScriptPlus) - Puzzlescript Plus: Open Source HTML5 Puzzle Game Engine (with lots of extra functionality)
@@ -278,6 +281,7 @@
 
 ## Kotlin 
 
+- [whitescent/Engine](https://github.com/whitescent/Engine) - Mapping your phone as a virtual joystick
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [scubajeff/Setter](https://github.com/scubajeff/Setter) - A multi-purpose search app for Android
 - [gh123man/Portal-Raycaster](https://github.com/gh123man/Portal-Raycaster) - A software portal rendering game engine
@@ -290,7 +294,6 @@
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [qristofer/LD39](https://github.com/qristofer/LD39) - LD39 attempt
-- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 
 ## Objective-C 
 
@@ -298,6 +301,7 @@
 
 ## Others 
 
+- [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
 - [madprops/blog](https://github.com/madprops/blog) - I might write stuff here sometimes
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -395,6 +399,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
@@ -429,7 +434,7 @@
 - [jeaye/q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized, destructible maps; written in Rust
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [izzabelle/offbrand](https://github.com/izzabelle/offbrand) - minifb at home
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
@@ -439,8 +444,13 @@
 
 - [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 
+## Scheme 
+
+- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
+
 ## Shell 
 
+- [dnkmmr69420/nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
@@ -455,6 +465,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -468,8 +479,9 @@
 
 ## TypeScript 
 
+- [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
-- [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
+- [newfrgmnt/alma](https://github.com/newfrgmnt/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
@@ -483,7 +495,6 @@
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [skanehira/k8s.vim](https://github.com/skanehira/k8s.vim) - Vim/Neovim plugin for Kubernetes
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
-- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [openshift/console](https://github.com/openshift/console) - OpenShift Cluster Console UI
 - [sondresj/piecs](https://github.com/sondresj/piecs) - PIECS is an entity component system with some batteries included, some not
 - [actnwit/RhodoniteTS](https://github.com/actnwit/RhodoniteTS) - Rhodonite Web3D Library in TypeScript
