@@ -59,7 +59,6 @@
 ## C 
 
 - [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
-- [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
@@ -113,12 +112,12 @@
 
 ## C++ 
 
+- [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [SalvatorePreviti/roaring-node](https://github.com/SalvatorePreviti/roaring-node) - Roaring for NodeJS
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -216,6 +215,7 @@
 
 ## JavaScript 
 
+- [barissenkal/Node.js-LAN-File-Sharing](https://github.com/barissenkal/Node.js-LAN-File-Sharing) - A small Node.js app designed for sharing files while on the same network. Especially useful when you are trying to get a file from a friend and their device has a single Type-C port used for charging.
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -231,7 +231,7 @@
 - [kriskowal/gtor](https://github.com/kriskowal/gtor) - A General Theory of Reactivity
 - [greggman/wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library
 - [Auroriax/PuzzleScriptPlus](https://github.com/Auroriax/PuzzleScriptPlus) - Puzzlescript Plus: Open Source HTML5 Puzzle Game Engine (with lots of extra functionality)
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [evanw/skew](https://github.com/evanw/skew) - A web-first, cross-platform programming language with an optimizing compiler
 - [parinfer/parinfer.js](https://github.com/parinfer/parinfer.js) - Let's simplify the way we write Lisp
@@ -301,6 +301,7 @@
 
 ## Others 
 
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
 - [madprops/blog](https://github.com/madprops/blog) - I might write stuff here sometimes
@@ -399,11 +400,13 @@
 
 ## Rust 
 
+- [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a visual tool to author game spritesheets and their metadata.
 - [nickmass/libsm64-rust](https://github.com/nickmass/libsm64-rust) - 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -479,11 +482,11 @@
 
 ## TypeScript 
 
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [newfrgmnt/alma](https://github.com/newfrgmnt/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
@@ -520,7 +523,7 @@
 - [scrooloose/vimfiles](https://github.com/scrooloose/vimfiles) - The ~/.vim directory that we share at work
 - [rottencandy/vimkubectl](https://github.com/rottencandy/vimkubectl) - Manage Kubernetes resources from Vim
 - [yegappan/lsp](https://github.com/yegappan/lsp) - Language Server Protocol (LSP) plugin for Vim9
-- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [radgeRayden/vim-scopes](https://github.com/radgeRayden/vim-scopes) - Vim syntax plugin for the Scopes language
 - [peitalin/vim-jsx-typescript](https://github.com/peitalin/vim-jsx-typescript) - React JSX syntax highlighting for vim and Typescript
 - [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
