@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -20,6 +21,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -131,6 +133,10 @@
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
 
+## ai 
+
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+
 ## algorithm 
 
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -223,6 +229,7 @@
 
 ## cli 
 
+- [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
@@ -249,6 +256,14 @@
 - [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+## computer-science 
+
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
 ## cpp 
 
@@ -302,6 +317,7 @@
 
 ## education 
 
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -449,11 +465,14 @@
 
 - [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Enterprise Contract command line interface
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -462,6 +481,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -501,6 +521,8 @@
 
 ## javascript 
 
+- [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -513,6 +535,7 @@
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [SalvatorePreviti/spglsl](https://github.com/SalvatorePreviti/spglsl) - A webgl GLSL minifier based on Angle compiler
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
@@ -535,6 +558,7 @@
 
 ## json 
 
+- [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
 ## kotlin 
@@ -585,6 +609,7 @@
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
@@ -633,7 +658,7 @@
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [skanehira/k8s.vim](https://github.com/skanehira/k8s.vim) - Vim/Neovim plugin for Kubernetes
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
-- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
 ## neural-network 
@@ -678,10 +703,10 @@
 
 ## others 
 
+- [barissenkal/Node.js-LAN-File-Sharing](https://github.com/barissenkal/Node.js-LAN-File-Sharing) - A small Node.js app designed for sharing files while on the same network. Especially useful when you are trying to get a file from a friend and their device has a single Type-C port used for charging.
 - [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
 - [A-Herzog/Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator) - Warteschlangensimulator is a free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts.
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
-- [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [Seme4eg/mpv-scripts](https://github.com/Seme4eg/mpv-scripts) - 
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
@@ -695,14 +720,12 @@
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [w84death/shaders](https://github.com/w84death/shaders) - 
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
@@ -716,7 +739,6 @@
 - [drogue-iot/drogueroids](https://github.com/drogue-iot/drogueroids) - 👾 We come in peace
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [nyunesu/web-games](https://github.com/nyunesu/web-games) - 
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [scrooloose/vim-snakey-camel](https://github.com/scrooloose/vim-snakey-camel) - 
 - [dokutan/check.fnl](https://github.com/dokutan/check.fnl) - A linter for Fennel
@@ -749,7 +771,6 @@
 - [shakenfist/shakenfist](https://github.com/shakenfist/shakenfist) - Old man shakes fist at cloud
 - [actnwit/RhodoniteTS](https://github.com/actnwit/RhodoniteTS) - Rhodonite Web3D Library in TypeScript
 - [Auroriax/PuzzleScriptPlus](https://github.com/Auroriax/PuzzleScriptPlus) - Puzzlescript Plus: Open Source HTML5 Puzzle Game Engine (with lots of extra functionality)
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [doldecomp/sms](https://github.com/doldecomp/sms) - A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
@@ -806,7 +827,6 @@
 - [Kamal-Sadek/Liberal-Crime-Squad](https://github.com/Kamal-Sadek/Liberal-Crime-Squad) - An updated version of Liberal Crime Squad
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [jeaye/q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized, destructible maps; written in Rust
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) - 
 - [Auroriax/js13k-2020](https://github.com/Auroriax/js13k-2020) - Edge Not Found, an infinitely wrapping Sokoban-type puzzle game for js13k 2020
 - [kostik1337/CHOCH](https://github.com/kostik1337/CHOCH) - Entry for js13k 2020
@@ -868,7 +888,6 @@
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - linux resources for the begainners and advanced users.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
 ## p2p 
 
@@ -949,6 +968,7 @@
 
 ## rust 
 
+- [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -1027,6 +1047,7 @@
 
 ## typescript 
 
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -1056,7 +1077,7 @@
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [rottencandy/vimkubectl](https://github.com/rottencandy/vimkubectl) - Manage Kubernetes resources from Vim
-- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [radgeRayden/vim-scopes](https://github.com/radgeRayden/vim-scopes) - Vim syntax plugin for the Scopes language
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
