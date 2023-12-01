@@ -6,7 +6,6 @@
 ## Contents
 
 - [3d](#3d)
-- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -36,7 +35,6 @@
 - [ember](#ember)
 - [emulator](#emulator)
 - [flask](#flask)
-- [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [game](#game)
@@ -54,7 +52,6 @@
 - [haskell](#haskell)
 - [html](#html)
 - [html5](#html5)
-- [icon-font](#icon-font)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -74,6 +71,7 @@
 - [markdown](#markdown)
 - [monitoring](#monitoring)
 - [music](#music)
+- [nativescript](#nativescript)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -132,10 +130,6 @@
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
-
-## ai 
-
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
 ## algorithm 
 
@@ -197,6 +191,7 @@
 
 ## bash 
 
+- [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [dnkmmr69420/nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -242,6 +237,7 @@
 
 ## compiler 
 
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
 - [byo-books/pretty_laughable_lang](https://github.com/byo-books/pretty_laughable_lang) - An educational C-like toy programming language that compiles to x64 binary.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
@@ -333,16 +329,13 @@
 
 ## emulator 
 
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## flask 
 
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-## font 
-
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## framework 
 
@@ -472,7 +465,6 @@
 - [openshift/microshift](https://github.com/openshift/microshift) - A small form factor OpenShift/Kubernetes optimized for edge computing
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -484,7 +476,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -501,10 +492,6 @@
 ## html5 
 
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
-
-## icon-font 
-
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## ios 
 
@@ -535,7 +522,7 @@
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [SalvatorePreviti/spglsl](https://github.com/SalvatorePreviti/spglsl) - A webgl GLSL minifier based on Angle compiler
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
+- [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
@@ -609,7 +596,7 @@
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
+- [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
@@ -652,6 +639,10 @@
 ## music 
 
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
+
+## nativescript 
+
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## neovim 
 
@@ -703,6 +694,9 @@
 
 ## others 
 
+- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
+- [UnNetHack/UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
+- [dylanebert/gsplat.js](https://github.com/dylanebert/gsplat.js) - JavaScript Gaussian Splatting library.
 - [barissenkal/Node.js-LAN-File-Sharing](https://github.com/barissenkal/Node.js-LAN-File-Sharing) - A small Node.js app designed for sharing files while on the same network. Especially useful when you are trying to get a file from a friend and their device has a single Type-C port used for charging.
 - [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
 - [A-Herzog/Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator) - Warteschlangensimulator is a free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts.
@@ -815,7 +809,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 - [OoliteProject/oolite](https://github.com/OoliteProject/oolite) - The main Oolite repository.
-- [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :star: A much faster alternative to youtube-dl built for PHP applications. Active and frequently updated! :v:
+- [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
 - [McArcady/lnp-forge](https://github.com/McArcady/lnp-forge) - A Dwarf Fortress starter pack builder for Linux & MacOS
 - [facebookarchive/BOLT](https://github.com/facebookarchive/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -930,7 +924,6 @@
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## qt 
 
@@ -968,6 +961,7 @@
 
 ## rust 
 
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine.
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -1020,7 +1014,6 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## software 
 
@@ -1037,7 +1030,7 @@
 ## terminal 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing
+- [directvt/vtm](https://github.com/directvt/vtm) - virtual terminal multiplexer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
