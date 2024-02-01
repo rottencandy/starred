@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ActionScript](#actionscript)
 - [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
@@ -43,10 +42,6 @@
 - [Vim Script](#vim-script)
 - [Wren](#wren)
 - [Zig](#zig)
-
-## ActionScript 
-
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Assembly 
 
@@ -113,11 +108,12 @@
 
 ## C++ 
 
+- [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [SalvatorePreviti/roaring-node](https://github.com/SalvatorePreviti/roaring-node) - Roaring for NodeJS
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
-- [directvt/vtm](https://github.com/directvt/vtm) - Text mode desktop
+- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -128,7 +124,6 @@
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
-- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
@@ -189,6 +184,7 @@
 
 ## HTML 
 
+- [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
 - [tsherif/webgl2examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
@@ -297,11 +293,11 @@
 
 ## Objective-C 
 
-- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 - [OoliteProject/oolite](https://github.com/OoliteProject/oolite) - The main Oolite repository.
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [dev-marko/clean-code-book](https://github.com/dev-marko/clean-code-book) - Here is the PDF version of the book "Clean Code" by Robert C. Martin. A must read books for upcoming (and senior) developers who want to learn how to write masterpieces and not just lines of code :)
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
@@ -316,6 +312,7 @@
 - [orta/awesome-typescript-derived-languages](https://github.com/orta/awesome-typescript-derived-languages) - Projects which have taken "TypeScript" and made it more than just 'JS with Types'
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [pallada-92/dna-3d-engine](https://github.com/pallada-92/dna-3d-engine) - 3d engine implementation in DNA code!
+- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [StevenLeeWW/Faster-than-light](https://github.com/StevenLeeWW/Faster-than-light) - A possible method for faster-than-light communication
@@ -329,7 +326,6 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [gaving/vimtips](https://github.com/gaving/vimtips) - :book: Tips for Vim
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
-- [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [facebookarchive/BOLT](https://github.com/facebookarchive/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
@@ -445,6 +441,7 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
 - [izzabelle/glade](https://github.com/izzabelle/glade) - rust OS
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Scala 
 
@@ -456,6 +453,7 @@
 
 ## Shell 
 
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [dnkmmr69420/nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
