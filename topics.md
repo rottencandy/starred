@@ -31,6 +31,7 @@
 - [design](#design)
 - [discord](#discord)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [emacs](#emacs)
 - [ember](#ember)
@@ -48,7 +49,6 @@
 - [godot](#godot)
 - [golang](#golang)
 - [google](#google)
-- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -214,7 +214,7 @@
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
-- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [derlaft/kisslock](https://github.com/derlaft/kisslock) - X11 Simple lock tool using vbetool dmps features
@@ -271,7 +271,7 @@
 ## cpp 
 
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 - [utkuufuk/cpp-quick-reference](https://github.com/utkuufuk/cpp-quick-reference) - C++ Quick Reference
 
@@ -316,6 +316,10 @@
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 
+## dotfiles 
+
+- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
+
 ## education 
 
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
@@ -352,6 +356,7 @@
 
 ## game 
 
+- [KranX/Vangers](https://github.com/KranX/Vangers) - The video game that combines elements of the racing and role-playing genres.
 - [mkremins/epitaph](https://github.com/mkremins/epitaph) - https://mkremins.itch.io/epitaph
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Comes with an in-game Editor!
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
@@ -454,10 +459,6 @@
 ## google 
 
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-
-## graphql 
-
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## hacktoberfest 
 
@@ -655,6 +656,7 @@
 ## nextjs 
 
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## node 
 
@@ -685,12 +687,14 @@
 
 ## operating-system 
 
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 The delightful operating system.
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 
 ## others 
 
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
+- [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [zzeneg/smol](https://github.com/zzeneg/smol) - Cheap small split keyboard with 36 keys
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -699,7 +703,6 @@
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
-- [dev-marko/clean-code-book](https://github.com/dev-marko/clean-code-book) - Here is the PDF version of the book "Clean Code" by Robert C. Martin. A must read books for upcoming (and senior) developers who want to learn how to write masterpieces and not just lines of code :)
 - [UnNetHack/UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
 - [huggingface/gsplat.js](https://github.com/huggingface/gsplat.js) - JavaScript Gaussian Splatting library.
 - [barissenkal/Node.js-LAN-File-Sharing](https://github.com/barissenkal/Node.js-LAN-File-Sharing) - A small Node.js app designed for sharing files while on the same network. Especially useful when you are trying to get a file from a friend and their device has a single Type-C port used for charging.
@@ -784,7 +787,7 @@
 - [SanderMertens/y](https://github.com/SanderMertens/y) - Simple, introspective language for creating the best software. Inspired by vlang.io
 - [bitnenfer/tiny-canvas](https://github.com/bitnenfer/tiny-canvas) - Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.
 - [ridiculousfish/shelob](https://github.com/ridiculousfish/shelob) - Angband on the web
-- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
+- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A next-gen functional language
 - [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
 - [kspalaiologos/malbolge-lisp](https://github.com/kspalaiologos/malbolge-lisp) - A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 - [DrBoolean/lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
@@ -853,7 +856,6 @@
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [magcius/xplain](https://github.com/magcius/xplain) - Interactive demos
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
-- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 - [eyelash/tutorials](https://github.com/eyelash/tutorials) - a collection of minimal example programs
 - [alicewriteswrongs/PocketGuide](https://github.com/alicewriteswrongs/PocketGuide) - "The Pocket Guide to Email Encryption": a zine about using GPG
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
@@ -1005,7 +1007,6 @@
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## scala 
 
@@ -1129,7 +1130,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
-- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
 
