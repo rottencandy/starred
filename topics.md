@@ -18,6 +18,7 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [clojure](#clojure)
 - [compiler](#compiler)
@@ -121,6 +122,7 @@
 
 ## 3d 
 
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
 - [0beqz/enhance-shader-lighting](https://github.com/0beqz/enhance-shader-lighting) - 💡 Better lighting in three.js
 - [redcamel/RedGL2](https://github.com/redcamel/RedGL2) - RedGL - Javascript 3D library (webgl)
@@ -187,7 +189,7 @@
 - [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 
 ## babel 
@@ -211,7 +213,7 @@
 ## c 
 
 - [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
-- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
 - [byo-books/pretty_laughable_lang](https://github.com/byo-books/pretty_laughable_lang) - An educational C-like toy programming language that compiles to x64 binary.
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -229,15 +231,21 @@
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 
+## c-plus-plus 
+
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+- [utkuufuk/cpp-quick-reference](https://github.com/utkuufuk/cpp-quick-reference) - C++ Quick Reference
+
 ## cli 
 
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 
 ## clojure 
 
@@ -266,7 +274,7 @@
 ## computer-science 
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -325,6 +333,7 @@
 
 ## education 
 
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
@@ -511,7 +520,7 @@
 
 ## javascript 
 
-- [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL shader editor and IDE.
+- [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
@@ -581,6 +590,7 @@
 
 ## learning 
 
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -636,7 +646,7 @@
 
 ## microsoft 
 
-- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
 
 ## monitoring 
 
@@ -653,6 +663,7 @@
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [skanehira/k8s.vim](https://github.com/skanehira/k8s.vim) - Vim/Neovim plugin for Kubernetes
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
+- [rottencandy/vimkubectl](https://github.com/rottencandy/vimkubectl) - Manage Kubernetes resources from Vim
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
@@ -683,7 +694,7 @@
 
 ## opengl 
 
-- [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL shader editor and IDE.
+- [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -699,6 +710,8 @@
 
 ## others 
 
+- [jkup/functional-javascript](https://github.com/jkup/functional-javascript) - :tada: A list of functional javascript resources
+- [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Language Server & Templating Language Library
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/saner alternatives to common unix commands, which is maintained.
@@ -943,7 +956,7 @@
 
 ## pwa 
 
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 
 ## python 
 
@@ -1006,7 +1019,7 @@
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
@@ -1065,6 +1078,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
