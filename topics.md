@@ -27,6 +27,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [data-structures](#data-structures)
+- [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
@@ -54,6 +55,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [html5](#html5)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -70,7 +72,6 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
-- [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
@@ -217,7 +218,6 @@
 - [byo-books/pretty_laughable_lang](https://github.com/byo-books/pretty_laughable_lang) - An educational C-like toy programming language that compiles to x64 binary.
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
-- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
@@ -298,6 +298,10 @@
 ## data-structures 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## data-visualization 
+
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 
 ## deep-learning 
 
@@ -509,6 +513,10 @@
 
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## ios 
 
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
@@ -520,6 +528,7 @@
 
 ## javascript 
 
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
@@ -608,7 +617,6 @@
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
-- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
@@ -644,10 +652,6 @@
 
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 
-## microsoft 
-
-- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
-
 ## monitoring 
 
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -655,7 +659,7 @@
 
 ## music 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## neovim 
 
@@ -710,6 +714,9 @@
 
 ## others 
 
+- [mvasilkov/michikoid](https://github.com/mvasilkov/michikoid) - Michikoid is a TypeScript and JavaScript macro processor
+- [RedeemApp/cc-billpay-upi-id](https://github.com/RedeemApp/cc-billpay-upi-id) - Credit card bill payment UPI ID generator
+- [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
 - [jkup/functional-javascript](https://github.com/jkup/functional-javascript) - :tada: A list of functional javascript resources
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Language Server & Templating Language Library
@@ -751,7 +758,7 @@
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
@@ -810,7 +817,7 @@
 - [SanderMertens/y](https://github.com/SanderMertens/y) - Simple, introspective language for creating the best software. Inspired by vlang.io
 - [bitnenfer/tiny-canvas](https://github.com/bitnenfer/tiny-canvas) - Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.
 - [ridiculousfish/shelob](https://github.com/ridiculousfish/shelob) - Angband on the web
-- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A modern proof language
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
 - [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
 - [kspalaiologos/malbolge-lisp](https://github.com/kspalaiologos/malbolge-lisp) - A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 - [DrBoolean/lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
@@ -938,7 +945,7 @@
 
 ## privacy 
 
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -976,6 +983,7 @@
 
 ## r 
 
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## raspberry-pi 
@@ -989,7 +997,7 @@
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## reactjs 
 
@@ -1042,7 +1050,7 @@
 
 ## security 
 
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 
 ## self-hosted 
@@ -1084,11 +1092,12 @@
 
 ## twitter 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
 
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
 - [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
@@ -1146,6 +1155,7 @@
 
 ## web 
 
+- [shader-park/shader-park-core](https://github.com/shader-park/shader-park-core) - A JavaScript library for creating real-time 2D and 3D shaders. JS -&gt; Shader. https://shaderpark.com/  https://twitter.com/shaderpark
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [backstopmedia/deep-learning-browser](https://github.com/backstopmedia/deep-learning-browser) - Official repository of the book "Deep learning in the browser" published by Bleeding Edge Press August 2018. Find here all of the source code of the demos!
@@ -1154,7 +1164,7 @@
 
 ## webapp 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## windows 
