@@ -52,11 +52,11 @@
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
 - [doldecomp/sms](https://github.com/doldecomp/sms) - A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
-- [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
 
+- [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -135,7 +135,7 @@
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
-- [makuto/cakelisp](https://github.com/makuto/cakelisp) - Metaprogrammable, hot-reloadable, no-GC language for high perf programs (especially games), with seamless C/C++ interop
+- [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
@@ -188,7 +188,7 @@
 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
-- [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Enterprise Contract command line interface
+- [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Supply chain artifact verifier and policy checker
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
@@ -197,6 +197,7 @@
 - [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
+- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
 - [WebGLSamples/WebGL2Samples](https://github.com/WebGLSamples/WebGL2Samples) - Short and easy to understand samples demonstrating WebGL 2 features
 - [tsherif/webgl2examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
@@ -285,7 +286,7 @@
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
+- [arfct/itty-bitty](https://github.com/arfct/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 
@@ -325,7 +326,6 @@
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [zzeneg/smol](https://github.com/zzeneg/smol) - Cheap small split keyboard with 36 keys
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
 - [madprops/blog](https://github.com/madprops/blog) - I might write stuff here sometimes
@@ -453,7 +453,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [indiv0/colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -483,7 +483,7 @@
 
 ## Shell 
 
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/saner alternatives to common unix commands, which is maintained.
+- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
 - [jasonrohrer/AnotherPlanetData](https://github.com/jasonrohrer/AnotherPlanetData) - 
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
@@ -521,6 +521,7 @@
 
 ## TypeScript 
 
+- [abagames/crisp-game-lib](https://github.com/abagames/crisp-game-lib) - Minimal JavaScript library for creating classic arcade-like mini-games running in the browser
 - [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
 - [RedeemApp/cc-billpay-upi-id](https://github.com/RedeemApp/cc-billpay-upi-id) - Credit card bill payment UPI ID generator
 - [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
