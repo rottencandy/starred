@@ -55,7 +55,6 @@
 - [haskell](#haskell)
 - [html](#html)
 - [html5](#html5)
-- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -105,6 +104,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
+- [svelte](#svelte)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -351,7 +351,7 @@
 
 ## ember 
 
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 
 ## emulator 
 
@@ -379,7 +379,7 @@
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [VFansss/mgs2-v-s-fix](https://github.com/VFansss/mgs2-v-s-fix) - Unofficial fix for PC version of Metal Gear Solid 2
 - [indiv0/colonize](https://github.com/indiv0/colonize) - A Dwarf Fortress/Rimworld-like game written in Rust
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
@@ -402,7 +402,7 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
@@ -417,7 +417,7 @@
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [gh123man/Portal-Raycaster](https://github.com/gh123man/Portal-Raycaster) - A software portal rendering game engine
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
@@ -436,7 +436,7 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
@@ -489,7 +489,6 @@
 - [rugk/googerteller](https://github.com/rugk/googerteller) - A Geiger counter for Google emitting a sound for each request that goes to Google.
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -519,10 +518,6 @@
 
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 
-## instagram 
-
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
 ## ios 
 
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
@@ -534,7 +529,9 @@
 
 ## javascript 
 
+- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game, fun
 - [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
@@ -556,7 +553,7 @@
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [origamitower/folktale](https://github.com/origamitower/folktale) - [not actively maintained!] A standard library for functional programming in JavaScript
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [backstopmedia/deep-learning-browser](https://github.com/backstopmedia/deep-learning-browser) - Official repository of the book "Deep learning in the browser" published by Bleeding Edge Press August 2018. Find here all of the source code of the demos!
@@ -720,6 +717,7 @@
 
 ## others 
 
+- [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 - [mvasilkov/michikoid](https://github.com/mvasilkov/michikoid) - Michikoid is a TypeScript and JavaScript macro processor
 - [RedeemApp/cc-billpay-upi-id](https://github.com/RedeemApp/cc-billpay-upi-id) - Credit card bill payment UPI ID generator
@@ -1080,6 +1078,10 @@
 
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 
+## svelte 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## swift 
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -1104,6 +1106,7 @@
 ## typescript 
 
 - [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
 - [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 - [akutruff/typescript-needs-types](https://github.com/akutruff/typescript-needs-types) - TypeScript please give us types.
