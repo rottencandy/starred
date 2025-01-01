@@ -113,6 +113,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -136,7 +137,7 @@
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 
 ## algorithm 
 
@@ -395,7 +396,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [sondresj/piecs](https://github.com/sondresj/piecs) - PIECS is an entity component system with some batteries included, some not
@@ -405,7 +406,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
@@ -413,14 +414,14 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [gh123man/Portal-Raycaster](https://github.com/gh123man/Portal-Raycaster) - A software portal rendering game engine
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gamedev 
@@ -429,7 +430,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a visual tool to author game spritesheets and their metadata.
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
@@ -440,7 +441,7 @@
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## games 
@@ -625,7 +626,7 @@
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
@@ -641,7 +642,7 @@
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 
 ## machine-learning 
 
@@ -703,7 +704,7 @@
 
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
-- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A fully-fledged Common Lisp game engine
+- [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -717,6 +718,7 @@
 
 ## others 
 
+- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 - [mvasilkov/michikoid](https://github.com/mvasilkov/michikoid) - Michikoid is a TypeScript and JavaScript macro processor
@@ -849,7 +851,6 @@
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)
-- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 - [OoliteProject/oolite](https://github.com/OoliteProject/oolite) - The main Oolite repository.
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
@@ -1122,6 +1123,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## unity 
 
@@ -1152,6 +1154,10 @@
 ## virtual-reality 
 
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
+
+## vpn 
+
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 
 ## vue 
 
@@ -1186,7 +1192,7 @@
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-- [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
+- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
 
 ## xml 
 
