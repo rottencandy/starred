@@ -56,6 +56,7 @@
 - [html](#html)
 - [html5](#html5)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
@@ -125,7 +126,7 @@
 
 ## 3d 
 
-- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to teach and learn Blenders default shortcuts
 - [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
 - [0beqz/enhance-shader-lighting](https://github.com/0beqz/enhance-shader-lighting) - 💡 Better lighting in three.js
 - [redcamel/RedGL2](https://github.com/redcamel/RedGL2) - RedGL - Javascript 3D library (webgl)
@@ -339,7 +340,7 @@
 
 ## education 
 
-- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to teach and learn Blenders default shortcuts
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
@@ -523,6 +524,10 @@
 
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 
+## iot 
+
+- [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
+
 ## java 
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -531,7 +536,7 @@
 ## javascript 
 
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game, fun
-- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D Model Viewer supporting glTF and 3D Gaussian Splats
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
@@ -603,7 +608,7 @@
 
 ## learning 
 
-- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to teach and learn Blenders default shortcuts
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -718,9 +723,9 @@
 
 ## others 
 
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
-- [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 - [mvasilkov/michikoid](https://github.com/mvasilkov/michikoid) - Michikoid is a TypeScript and JavaScript macro processor
 - [RedeemApp/cc-billpay-upi-id](https://github.com/RedeemApp/cc-billpay-upi-id) - Credit card bill payment UPI ID generator
 - [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
@@ -1106,7 +1111,7 @@
 
 ## typescript 
 
-- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D Model Viewer supporting glTF and 3D Gaussian Splats
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
 - [mistlog/typetype](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
