@@ -195,7 +195,8 @@
 
 ## HTML 
 
-- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to help beginners learn blender shortcuts
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
+- [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to teach and learn Blenders default shortcuts
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 - [civboot/civboot](https://github.com/civboot/civboot) - Civilizational Bootstraper: landing page and wiki
@@ -529,7 +530,7 @@
 
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game, fun
 - [abagames/crisp-game-lib](https://github.com/abagames/crisp-game-lib) - Minimal JavaScript library for creating classic arcade-like mini-games running in the browser
-- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)
+- [playcanvas/model-viewer](https://github.com/playcanvas/model-viewer) - 3D Model Viewer supporting glTF and 3D Gaussian Splats
 - [RedeemApp/cc-billpay-upi-id](https://github.com/RedeemApp/cc-billpay-upi-id) - Credit card bill payment UPI ID generator
 - [paralogical/glish](https://github.com/paralogical/glish) - map all words to single-syllable version
 - [huggingface/gsplat.js](https://github.com/huggingface/gsplat.js) - JavaScript Gaussian Splatting library.
