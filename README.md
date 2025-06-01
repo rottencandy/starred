@@ -145,7 +145,7 @@
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
-- [crownengine/crown](https://github.com/crownengine/crown) - Crown Engine
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
 - [utkuufuk/cpp-quick-reference](https://github.com/utkuufuk/cpp-quick-reference) - C++ Quick Reference
 - [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 - [HackerPoet/Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
@@ -194,6 +194,7 @@
 
 ## HTML 
 
+- [EricAndrechek/FermiQuestions](https://github.com/EricAndrechek/FermiQuestions) - Open Source Github Homepage for the Internet's Best Fermi Questions Practice Test
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [hollisbrown/blendershortcuts](https://github.com/hollisbrown/blendershortcuts) - A website to teach and learn Blenders default shortcuts
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
@@ -207,7 +208,6 @@
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Handlebars 
 
@@ -411,6 +411,7 @@
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [HackathonHackers/personal-sites](https://github.com/HackathonHackers/personal-sites) - List of Hackathon Hackers' personal sites.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## R 
 
@@ -431,6 +432,7 @@
 
 ## Rust 
 
+- [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
