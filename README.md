@@ -120,7 +120,6 @@
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [SalvatorePreviti/roaring-node](https://github.com/SalvatorePreviti/roaring-node) - Roaring for NodeJS
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
-- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -152,6 +151,7 @@
 
 ## CSS 
 
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 
 ## Clojure 
@@ -188,7 +188,7 @@
 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
-- [enterprise-contract/ec-cli](https://github.com/enterprise-contract/ec-cli) - Supply chain artifact verifier and policy checker
+- [conforma/cli](https://github.com/conforma/cli) - Conforma artifact verifier and policy checker
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
@@ -472,7 +472,6 @@
 - [jeaye/q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized, destructible maps; written in Rust
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [withoutboats/notty](https://github.com/withoutboats/notty) - A new kind of terminal
-- [izzabelle/offbrand](https://github.com/izzabelle/offbrand) - minifb at home
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [kalix-systems/herald](https://github.com/kalix-systems/herald) - Pre-alpha end-to-end encrypted instant messenger.
 - [izzabelle/glade](https://github.com/izzabelle/glade) - rust OS
@@ -556,7 +555,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jlfwong/graphics-experiments](https://github.com/jlfwong/graphics-experiments) - Bucket of unrelated graphics experiments. Just a place to keep stuff so I don't lose it.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 
 ## Vala 
 
