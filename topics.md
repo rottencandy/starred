@@ -89,6 +89,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [php](#php)
+- [physics](#physics)
 - [pixel-art](#pixel-art)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -126,7 +127,6 @@
 - [windows](#windows)
 - [xml](#xml)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -644,7 +644,8 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
+- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 
@@ -758,7 +759,7 @@
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 - [jasonrohrer/AnotherPlanetData](https://github.com/jasonrohrer/AnotherPlanetData) - 
 - [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - CLI + embedded web-server to work with Cooklang recipes
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 - [UnNetHack/UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
@@ -785,7 +786,7 @@
 - [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) - Disassembly (CA65) of the Commodore 64 port of the seminal space-sim Elite, by Ian Bell / David Braben.
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [exoticorn/microw8](https://github.com/exoticorn/microw8) - MicroW8: A WebAssembly based  size-coding platform
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [csdvrx/CuteXterm](https://github.com/csdvrx/CuteXterm) - Sensible defaults for xterm in the 21st century
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
@@ -843,7 +844,7 @@
 - [ridiculousfish/shelob](https://github.com/ridiculousfish/shelob) - Angband on the web
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
 - [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
-- [kspalaiologos/malbolge-lisp](https://github.com/kspalaiologos/malbolge-lisp) - A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
+- [iczelia/malbolge-lisp](https://github.com/iczelia/malbolge-lisp) - A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 - [DrBoolean/lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
 - [ibhagwan/vim-cheatsheet](https://github.com/ibhagwan/vim-cheatsheet) - 
 - [no-defun-allowed/wasm2ps](https://github.com/no-defun-allowed/wasm2ps) - ruin the sanctity of your printer with ONE WEIRD TRICK
@@ -922,7 +923,6 @@
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
-- [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [osban/mithril-codex](https://github.com/osban/mithril-codex) - Simple code solutions in Mithril
 - [StephanHoyer/how-to-mithril](https://github.com/StephanHoyer/how-to-mithril) - Collection of example how to do things in mithril
@@ -957,6 +957,10 @@
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+## physics 
+
+- [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 
 ## pixel-art 
 
@@ -1226,10 +1230,6 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-
-## zsh 
-
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
 
 ## License
