@@ -408,7 +408,6 @@
 - [melissaboiko/myougiden](https://github.com/melissaboiko/myougiden) - A Japanese/English dictionary for the command line, colorful and full of features.
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [HackathonHackers/personal-sites](https://github.com/HackathonHackers/personal-sites) - List of Hackathon Hackers' personal sites.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -439,9 +438,8 @@
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [pflenker/hecto-tutorial](https://github.com/pflenker/hecto-tutorial) - Build your own text editor in Rust
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [agersant/tiger](https://github.com/agersant/tiger) - Tiger is a visual tool to author game spritesheets and their metadata.
 - [nickmass/libsm64-rust](https://github.com/nickmass/libsm64-rust) - 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -508,6 +506,7 @@
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
 
 ## Svelte 
@@ -555,7 +554,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jlfwong/graphics-experiments](https://github.com/jlfwong/graphics-experiments) - Bucket of unrelated graphics experiments. Just a place to keep stuff so I don't lose it.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 
 ## Vala 
 
@@ -584,7 +583,7 @@
 
 ## Zig 
 
-- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Language Server & Templating Language Library
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 
