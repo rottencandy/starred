@@ -6,7 +6,9 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
 - [archlinux](#archlinux)
@@ -22,6 +24,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
@@ -53,6 +56,7 @@
 - [godot](#godot)
 - [golang](#golang)
 - [google](#google)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -149,9 +153,17 @@
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
 
+## agent 
+
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
 ## algorithm 
 
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## algorithms 
+
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## android 
@@ -186,7 +198,6 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [cloudycotton/awesome-illustrated-guides](https://github.com/cloudycotton/awesome-illustrated-guides) - Awesome illustrated guides or children's books on technical topics.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 
@@ -199,7 +210,6 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -266,6 +276,12 @@
 ## cloud 
 
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
+
+## command-line 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 
 ## compiler 
 
@@ -496,6 +512,10 @@
 ## google 
 
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+
+## gui 
+
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 
 ## hacktoberfest 
 
@@ -735,6 +755,7 @@
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
 - [Shirakumo/trial](https://github.com/Shirakumo/trial) - A modular Common Lisp game engine
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,  WEGL and CUDA) shader library designed for performance and flexibility
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [tofuengine/tofu](https://github.com/tofuengine/tofu) - Multiplatform lightweight 2D game-engine, retro-game inspired. Uses OpenGL through GLFW3. Scripted in Lua. Aiming zero run-time dependencies.
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -748,6 +769,7 @@
 
 ## others 
 
+- [DanielSant0s/AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors
 - [EricAndrechek/FermiQuestions](https://github.com/EricAndrechek/FermiQuestions) - Open Source Github Homepage for the Internet's Best Fermi Questions Practice Test
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
@@ -876,7 +898,6 @@
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
-- [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN)
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 - [OoliteProject/oolite](https://github.com/OoliteProject/oolite) - The main Oolite repository.
 - [McArcady/lnp-forge](https://github.com/McArcady/lnp-forge) - A Dwarf Fortress starter pack builder for Linux & MacOS
@@ -930,6 +951,7 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+- [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [osban/mithril-codex](https://github.com/osban/mithril-codex) - Simple code solutions in Mithril
 - [StephanHoyer/how-to-mithril](https://github.com/StephanHoyer/how-to-mithril) - Collection of example how to do things in mithril
 - [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
@@ -1048,7 +1070,7 @@
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes & logic into WebGL shaders - all through an intuitive no-code interface.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 
 ## reactjs 
 
