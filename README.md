@@ -56,7 +56,7 @@
 ## C 
 
 - [DanielSant0s/AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
-- [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
+- [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 - [UnNetHack/UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
@@ -117,7 +117,7 @@
 - [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
 - [houmain/gpupad](https://github.com/houmain/gpupad) - A flexible GLSL and HLSL shader editor and IDE.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [SalvatorePreviti/roaring-node](https://github.com/SalvatorePreviti/roaring-node) - Roaring for NodeJS
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [supernovaengine/supernova](https://github.com/supernovaengine/supernova) - Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design
@@ -554,7 +554,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jlfwong/graphics-experiments](https://github.com/jlfwong/graphics-experiments) - Bucket of unrelated graphics experiments. Just a place to keep stuff so I don't lose it.
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
 
 ## Vala 
 
@@ -584,7 +584,7 @@
 ## Zig 
 
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 
 
