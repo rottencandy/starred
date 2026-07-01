@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [android](#android)
@@ -162,6 +163,10 @@
 ## agent 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## ai 
+
+- [CrowCall/crow-tools](https://github.com/CrowCall/crow-tools) - Explore and decode the rich and mysterious world of crow communication using cutting-edge machine learning and audio analysis.
 
 ## algorithm 
 
@@ -697,7 +702,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
-- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - Courses and lesson content for linuxjourney.com
+- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - The official Linux Journey (formerly linuxjourney.com) source repository is maintained by LabEx.
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 
@@ -990,7 +995,7 @@
 - [TwixtedChaox/Guerrilla-SMTPd](https://github.com/TwixtedChaox/Guerrilla-SMTPd) - Guerrilla SMTPd is minimalist, event-driven I/O, non-blocking SMTP server. The design goal and purpose of Guerrilla SMTPd is to receive large volumes of email and nothing much else. It happily gobbles
 - [arfct/itty-bitty](https://github.com/arfct/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - linux resources for the begainners and advanced users.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 
 ## p2p 
