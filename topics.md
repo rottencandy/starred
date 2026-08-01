@@ -77,6 +77,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -158,7 +159,7 @@
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 
 ## agent 
 
@@ -180,7 +181,7 @@
 ## android 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [rin0chan/Engine](https://github.com/rin0chan/Engine) - Mapping your phone as a virtual joystick
+- [totoneei/Engine](https://github.com/totoneei/Engine) - Mapping your phone as a virtual joystick
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
@@ -463,7 +464,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
@@ -479,7 +480,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [gh123man/Portal-Raycaster](https://github.com/gh123man/Portal-Raycaster) - A software portal rendering game engine
 - [swift502/Sketchbook](https://github.com/swift502/Sketchbook) - 3D playground built on three.js and cannon.js.
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gamedev 
@@ -499,7 +500,7 @@
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## games 
@@ -636,7 +637,7 @@
 
 ## jetpack-compose 
 
-- [rin0chan/Engine](https://github.com/rin0chan/Engine) - Mapping your phone as a virtual joystick
+- [totoneei/Engine](https://github.com/totoneei/Engine) - Mapping your phone as a virtual joystick
 
 ## js 
 
@@ -650,7 +651,7 @@
 
 ## kotlin 
 
-- [rin0chan/Engine](https://github.com/rin0chan/Engine) - Mapping your phone as a virtual joystick
+- [totoneei/Engine](https://github.com/totoneei/Engine) - Mapping your phone as a virtual joystick
 
 ## kubernetes 
 
@@ -674,6 +675,10 @@
 
 - [gaving/vimtips](https://github.com/gaving/vimtips) - :book: Tips for Vim
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
+
+## learn-to-code 
+
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## learning 
 
@@ -717,7 +722,7 @@
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance, and fast-iterations.
+- [crownengine/crown](https://github.com/crownengine/crown) - A complete and cross-platform game engine designed for flexibility, performance and fast iteration.
 
 ## machine-learning 
 
