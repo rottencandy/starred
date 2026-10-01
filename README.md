@@ -57,7 +57,6 @@
 ## C 
 
 - [DanielSant0s/AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
-- [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 - [UnNetHack/UnNetHack](https://github.com/UnNetHack/UnNetHack) - NetHack fork that is in development
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
@@ -240,7 +239,6 @@
 - [redcamel/RedGL2](https://github.com/redcamel/RedGL2) - RedGL - Javascript 3D library (webgl)
 - [tsherif/picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library
 - [drogue-iot/drogueroids](https://github.com/drogue-iot/drogueroids) - 👾 We come in peace
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [rugk/googerteller](https://github.com/rugk/googerteller) - A Geiger counter for Google emitting a sound for each request that goes to Google.
 - [pmgl/microstudio](https://github.com/pmgl/microstudio) - Free, open source game engine online
 - [SalvatorePreviti/spglsl](https://github.com/SalvatorePreviti/spglsl) - A webgl GLSL minifier based on Angle compiler
@@ -275,6 +273,7 @@
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [microjs/microjs.com](https://github.com/microjs/microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [magcius/xplain](https://github.com/magcius/xplain) - Interactive demos
@@ -367,7 +366,6 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [numbbbbb/read-react-source-code](https://github.com/numbbbbb/read-react-source-code) - Record what I learn after reading React source code
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [livecoders/Home](https://github.com/livecoders/Home) - Information about the LiveCoders and how to join the team
 - [alicewriteswrongs/PocketGuide](https://github.com/alicewriteswrongs/PocketGuide) - "The Pocket Guide to Email Encryption": a zine about using GPG
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
@@ -402,6 +400,7 @@
 - [CrowCall/crow-tools](https://github.com/CrowCall/crow-tools) - Explore and decode the rich and mysterious world of crow communication using cutting-edge machine learning and audio analysis.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [byo-books/pretty_laughable_lang](https://github.com/byo-books/pretty_laughable_lang) - An educational C-like toy programming language that compiles to x64 binary.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -484,11 +483,12 @@
 
 ## Scheme 
 
-- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
+- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io
 
 ## Shell 
 
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
+- [luainkernel/lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 - [jasonrohrer/AnotherPlanetData](https://github.com/jasonrohrer/AnotherPlanetData) - 
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [dnkmmr69420/nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too.
